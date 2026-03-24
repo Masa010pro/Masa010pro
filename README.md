@@ -65,31 +65,31 @@ I enjoy working on mobile applications, networking systems, and offline solution
     <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/808/808439.png" width="80"/><br>
       🎮 <b>Gaming</b><br>
-      <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="40"/>
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60"/>
     </td>
 
     <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/3211/3211338.png" width="80"/><br>
       🚀 <b>Space Exploration</b><br>
-      <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="40"/>
+      <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60"/>
     </td>
 
     <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="80"/><br>
       🏗 <b>Building Systems</b><br>
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40"/>
+      <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="60"/>
     </td>
 
     <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/4149/4149645.png" width="80"/><br>
       🌐 <b>New Technologies</b><br>
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40"/>
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60"/>
     </td>
 
     <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80"/><br>
       💡 <b>Innovation & Learning</b><br>
-      <img src="https://media.giphy.com/media/3o7TKsQ8QK0p2g3X0Q/giphy.gif" width="40"/>
+      <img src="https://media.giphy.com/media/3o7TKsQ8QK0p2g3X0Q/giphy.gif" width="60"/>
     </td>
   </tr>
 </table>
