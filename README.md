@@ -58,41 +58,29 @@ I enjoy working on mobile applications, networking systems, and offline solution
 
 ---
 
+
 ## 🎯 Interests
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/808/808439.png" width="80"/><br>
-      🎮 <b>Gaming</b><br>
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60"/>
-    </td>
+<p align="center">
 
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/3211/3211338.png" width="80"/><br>
-      🚀 <b>Space Exploration</b><br>
-      <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60"/>
-    </td>
+🎮 Gaming  
+<img src="https://img.shields.io/badge/Gaming-FF4655?style=for-the-badge&logo=steam&logoColor=white" />
 
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="80"/><br>
-      🏗 <b>Building Systems</b><br>
-      <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="60"/>
-    </td>
+🏗 Building Systems  
+<img src="https://img.shields.io/badge/Building_Systems-0A84FF?style=for-the-badge&logo=azure-devops&logoColor=white" />
 
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/4149/4149645.png" width="80"/><br>
-      🌐 <b>New Technologies</b><br>
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60"/>
-    </td>
+🚀 Space & Exploration  
+<img src="https://img.shields.io/badge/Space_Exploration-1B1F23?style=for-the-badge&logo=nasa&logoColor=white" />
 
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80"/><br>
-      💡 <b>Innovation & Learning</b><br>
-      <img src="https://media.giphy.com/media/3o7TKsQ8QK0p2g3X0Q/giphy.gif" width="60"/>
-    </td>
-  </tr>
-</table>
+🌐 Exploring New Technology  
+<img src="https://img.shields.io/badge/Tech_Explorer-00C6FF?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+
+💡 Innovation & Learning  
+<img src="https://img.shields.io/badge/Continuous_Learning-2ECC71?style=for-the-badge&logo=bookstack&logoColor=white" />
+
+</p>
+
+
 ## 🎯 Goals & Vision
 
 <p align="center">
