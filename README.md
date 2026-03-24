@@ -14,8 +14,23 @@
 ---
 
 ## 🚀 About Me
-Software Engineering student passionate about building practical systems and exploring real-world technology.  
-I enjoy working on mobile applications, networking systems, and offline solutions while continuously learning and experimenting with new technologies.
+
+<p align="center">
+  <b>Software Engineering Student</b> • <b>Aspiring Software Engineer</b> • <b>Technology Enthusiast</b>
+</p>
+
+<p align="center">
+I am a Software Engineering student focused on building practical and scalable solutions.  
+I work across Android development, system design, and networking while continuously improving my problem-solving and technical skills.
+</p>
+
+<p align="center">
+I enjoy exploring new technologies, understanding how systems work under the hood, and applying knowledge to real-world problems through hands-on projects.
+</p>
+
+<p align="center">
+⚡ Currently building • Learning • Improving
+</p>
 
 ---
 
@@ -58,28 +73,48 @@ I enjoy working on mobile applications, networking systems, and offline solution
 
 ---
 
-
 ## 🎯 Interests
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      🎮<br>
+      <b>Gaming</b><br><br>
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60"/><br>
+      <img src="https://img.shields.io/badge/Gaming-FF4655?style=for-the-badge&logo=steam&logoColor=white"/>
+    </td>
 
-🎮 Gaming  
-<img src="https://img.shields.io/badge/Gaming-FF4655?style=for-the-badge&logo=steam&logoColor=white" />
+    <td align="center">
+      🚀<br>
+      <b>Space Exploration</b><br><br>
+      <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="60"/><br>
+      <img src="https://img.shields.io/badge/Space-1B1F23?style=for-the-badge&logo=nasa&logoColor=white"/>
+    </td>
 
-🏗 Building Systems  
-<img src="https://img.shields.io/badge/Building_Systems-0A84FF?style=for-the-badge&logo=azure-devops&logoColor=white" />
+    <td align="center">
+      🏗<br>
+      <b>Building Systems</b><br><br>
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60"/><br>
+      <img src="https://img.shields.io/badge/Systems-0A84FF?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+    </td>
 
-🚀 Space & Exploration  
-<img src="https://img.shields.io/badge/Space_Exploration-1B1F23?style=for-the-badge&logo=nasa&logoColor=white" />
+    <td align="center">
+      🌐<br>
+      <b>New Technology</b><br><br>
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60"/><br>
+      <img src="https://img.shields.io/badge/Tech-00C6FF?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
+    </td>
 
-🌐 Exploring New Technology  
-<img src="https://img.shields.io/badge/Tech_Explorer-00C6FF?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+    <td align="center">
+      💡<br>
+      <b>Innovation & Learning</b><br><br>
+      <img src="https://media.giphy.com/media/3o7TKsQ8QK0p2g3X0Q/giphy.gif" width="60"/><br>
+      <img src="https://img.shields.io/badge/Learning-2ECC71?style=for-the-badge&logo=bookstack&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-💡 Innovation & Learning  
-<img src="https://img.shields.io/badge/Continuous_Learning-2ECC71?style=for-the-badge&logo=bookstack&logoColor=white" />
-
-</p>
-
+---
 
 ## 🎯 Goals & Vision
 
