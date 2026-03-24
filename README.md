@@ -60,23 +60,37 @@ I enjoy working on mobile applications, networking systems, and offline solution
 
 ## 🎯 Interests
 
+### 🎮 Gaming
 <p align="center">
+  <img src="https://media.giphy.com/media/3o7TKz2b7QWz8QzZ0Q/giphy.gif" width="300"/>
+</p>
 
-🎮 Gaming  
-<img src="https://img.shields.io/badge/Gaming-FF4655?style=for-the-badge&logo=steam&logoColor=white" />
+---
 
-🏗 Building Systems  
-<img src="https://img.shields.io/badge/Building_Systems-0A84FF?style=for-the-badge&logo=azure-devops&logoColor=white" />
+### 🚀 Space & Exploration
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
+</p>
 
-🚀 Space & Exploration  
-<img src="https://img.shields.io/badge/Space_Exploration-1B1F23?style=for-the-badge&logo=nasa&logoColor=white" />
+---
 
-🌐 Exploring New Technology  
-<img src="https://img.shields.io/badge/Tech_Explorer-00C6FF?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+### 🏗 Building Systems / Robotics
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300"/>
+</p>
 
-💡 Innovation & Learning  
-<img src="https://img.shields.io/badge/Continuous_Learning-2ECC71?style=for-the-badge&logo=bookstack&logoColor=white" />
+---
 
+### 🌐 Exploring New Technologies
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+</p>
+
+---
+
+### 💡 Innovation & Learning
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8QK0p2g3X0Q/giphy.gif" width="300"/>
 </p>
 ## 🎯 Goals & Vision
 
