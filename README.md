@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=masansodavid&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/masansodavid?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Masa010pro&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Masa010pro?label=Followers&style=social" />
 </p>
 
 ---
@@ -21,7 +21,7 @@ I enjoy working on mobile applications, networking systems, and offline solution
 
 ## 🧠 Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -67,14 +67,32 @@ I enjoy working on mobile applications, networking systems, and offline solution
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Goals & Vision
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masansodavid&show_icons=true&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00C6FF&center=true&vCenter=true&width=600&lines=Building+practical+real-world+systems;Mastering+Android+development;Exploring+system-level+engineering;Growing+in+network+and+AI+technologies;Turning+ideas+into+working+solutions" />
+</p>
+
+- 🚀 Build scalable and practical software systems  
+- 📱 Advance in Android development and UI/UX design  
+- 🖧 Strengthen networking and distributed systems knowledge  
+- 🤖 Explore offline AI and intelligent systems  
+- 🌐 Continuously learn and adapt to emerging technologies  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Masa010pro&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masansodavid&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masa010pro&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masa010pro&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -84,13 +102,6 @@ I enjoy working on mobile applications, networking systems, and offline solution
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-## ⚡ Goals
-- Build scalable and practical software systems  
-- Improve Android and system-level development skills  
-- Explore advanced technologies and contribute to real-world solutions  
 
 ---
 
