@@ -59,14 +59,25 @@ I enjoy working on mobile applications, networking systems, and offline solution
 ---
 
 ## 🎯 Interests
-- 🎮 Gaming  
-- 🏗 Building systems and applications  
-- 🚀 Space exploration and science  
-- 🌐 Exploring and adapting to new technologies  
-- 💡 Continuous learning and experimentation  
 
----
+<p align="center">
 
+🎮 Gaming  
+<img src="https://img.shields.io/badge/Gaming-FF4655?style=for-the-badge&logo=steam&logoColor=white" />
+
+🏗 Building Systems  
+<img src="https://img.shields.io/badge/Building_Systems-0A84FF?style=for-the-badge&logo=azure-devops&logoColor=white" />
+
+🚀 Space & Exploration  
+<img src="https://img.shields.io/badge/Space_Exploration-1B1F23?style=for-the-badge&logo=nasa&logoColor=white" />
+
+🌐 Exploring New Technology  
+<img src="https://img.shields.io/badge/Tech_Explorer-00C6FF?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+
+💡 Innovation & Learning  
+<img src="https://img.shields.io/badge/Continuous_Learning-2ECC71?style=for-the-badge&logo=bookstack&logoColor=white" />
+
+</p>
 ## 🎯 Goals & Vision
 
 <p align="center">
